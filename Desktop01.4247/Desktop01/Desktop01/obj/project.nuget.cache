@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TSBkElmpP1UpRpTJeHkqeVTShy71XOSoSYg8KlXOKj0YFPuiNtOd+RkwOnupu8Pv8LgdgWhhLg1BRSLXlnouw==",
+  "success": true,
+  "projectFilePath": "E:\\wpf\\Desktop01\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
